@@ -128,7 +128,7 @@ function Transplant(T::Node, u::Node, v::Node)
     end
 end
 # Delete node with given value from tree rooted at root; n is the node to delete
-function  Tree-Delete(T,z)
+function Tree-Delete(T,z)
 end
 function Test_Inorder_Search_Normal()
     # create root
